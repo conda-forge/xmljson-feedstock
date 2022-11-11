@@ -2,3 +2,6 @@ github:
   branch_name: main
   tooling_branch_name: main
 conda_forge_output_validation: true
+bot:
+  automerge: true
+  inspection: update-grayskull
